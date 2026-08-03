@@ -74,6 +74,8 @@ npm run security:audit
 
 ## Build for Windows
 
+Before packaging, add the licensed recordings described in [public/audio/README.md](public/audio/README.md). The packaging commands stop with a clear error if any release audio file is missing.
+
 Create a portable ZIP package:
 
 ```powershell
