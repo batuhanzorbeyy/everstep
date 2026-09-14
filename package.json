@@ -46,20 +46,20 @@
     "security:audit": "npm audit --audit-level=high"
   },
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   },
   "devDependencies": {
     "@electron-forge/cli": "^7.11.2",
     "@electron-forge/maker-msix": "^7.11.2",
     "@electron-forge/maker-zip": "^7.11.2",
-    "@types/node": "^24.1.0",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.4",
+    "@types/node": "^24.13.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^4.7.0",
     "concurrently": "^9.2.0",
     "cross-env": "^10.0.0",
-    "electron": "^43.2.0",
+    "electron": "^43.7.0",
     "typescript": "^5.8.3",
     "vite": "^7.0.6",
     "vitest": "^3.2.4",
